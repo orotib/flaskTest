@@ -1,0 +1,30 @@
+.pull-right {
+	float: right;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.section-content {
+	color: #3a3a3a;
+	float: left;
+	width: 340px;
+}
+
+.section-device {
+	float: right;
+	position: relative;
+	top: 65px;
+}
+
+.section-device img {
+	width: 200px;
+}
+
+.btn-primary {
+	background: #4285f4;
+	border: 1px solid gray;
+	color: black;
+	font-size: 14px;
+}
